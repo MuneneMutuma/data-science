@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/munene/venvs/data/bin/python3",
+    "editor.codeActionsOnSave": null,
+    "python.autoComplete.addBrackets": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "code-runner.executorMap": {
+        "python" : "$pythonPath $fullFileName",
+    },
+    "code-runner.runInTerminal": true
+}

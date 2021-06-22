@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+pandas
+keras
+plotly
+seaborn
+tensorflow
+scrapy
+statsmodels
+requests
+urllib3
+networkx
